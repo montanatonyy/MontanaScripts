@@ -21,7 +21,7 @@
 
 ## 📊 GITHUB İSTATİSTİKLERİM
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=montanatonyy\&show_icons=true\&theme=radical)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=montanatonyy&show_icons=true&theme=radical)
 
 <img src="https://github-readme-streak-stats.herokuapp.com?user=montanatonyy&theme=radical&hide_border=true&background=000000&ring=ff4da6&fire=ff4da6&currStreakLabel=ff4da6" />
 
