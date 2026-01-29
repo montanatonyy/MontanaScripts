@@ -21,11 +21,11 @@
 
 ## 📊 GITHUB İSTATİSTİKLERİM
 
-![GitHub stats](https://github-readme-stats-git-master-anuraghazra.vercel.app/api?username=montanatonyy&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=KULLANICI_ADIN&show_icons=true&theme=dark)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KULLANICI_ADIN&layout=compact&theme=dark)
 
 <img src="https://github-readme-streak-stats.herokuapp.com?user=montanatonyy&theme=radical&hide_border=true&background=000000&ring=ff4da6&fire=ff4da6&currStreakLabel=ff4da6" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=montanatonyy&layout=compact&theme=radical&hide_border=true&bg_color=000000&title_color=ff4da6&text_color=ff4da6"/>
 
 ## 📬 İLETİŞİM
 
